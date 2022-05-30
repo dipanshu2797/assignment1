@@ -7,13 +7,13 @@ body{
       display: flex;
       justify-content: space-between;
       align-items: center;
-      background-color: #ddd;
+      background-color:white;
       padding: 0 0 0 50px;
       
     }
   
     .container-top{
-      background-color: #3BACB6;
+      background-color: #0aaaa0;
       height: 15px;
       width: 100%;
       margin:0;
